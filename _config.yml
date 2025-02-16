@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Lucas Nerbonne"
   avatar : "/assets/images/IMG_1047.jpeg"
-  bio    : "This is my portfolio site, where I'll be posting blogs and posting projects I've been working on!"
+  bio    : "I'm a Geology and GIS student at Middlebury College in Vermont. This is my portfolio site, where I'll be posting blogs and posting projects I've been working on!"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -80,7 +80,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/lucasnerbonne/"
-    - label: "Instagram"
+    - label: "Photo Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/lucasfnphoto/"
 

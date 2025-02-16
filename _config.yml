@@ -58,16 +58,16 @@ plugins:
 
 author:
   name   : "Lucas Nerbonne"
-  avatar : "/Users/lucas/Documents/GitHub/lnerbonne.github.io/assets/images/IMG_1047.jpeg"
+  avatar : "/assets/images/IMG_1047.jpeg"
   bio    : "This is my portfolio site, where I'll be posting blogs and posting projects I've been working on!"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lnerbonne"
-    - label: "Instagram"
+    - label: "Personal Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/lucasnerbonne/"
-    - label: "Instagram"
+    - label: "Photography Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/lucasfnphoto/"
 

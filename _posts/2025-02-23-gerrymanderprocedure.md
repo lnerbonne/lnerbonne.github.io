@@ -14,4 +14,4 @@ As a researcher it's sometimes interesting to step back and ask myself "how did 
 
 This process was tested this week as I set out to write my pre-research plan for an analysis of congressional gerrymandering in Alabama 
 
-(View my Pre-Planning documentation)[./assets/pre_planning_documentation.html]
+[View my Pre-Planning documentation](./assets/pre_planning_documentation.html)

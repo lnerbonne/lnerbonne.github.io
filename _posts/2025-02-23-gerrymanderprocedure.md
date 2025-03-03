@@ -16,4 +16,4 @@ This process was tested this week as I set out to write my pre-research plan for
 
 This process was especially interesting to me because it forced me to put to paper (or vsc, in this case) what my thought process was. In a lot of ways this is what I've spent the most time developing over my four years at Middlebury; hard skills come and go, but what doesn't is your ability to look over a dataset and make decisions about how to treat data. I'll be curious to see how my workflow does during implementation, which should get done this week.  
 
-[View my Pre-Planning documentation](../assets/pre_planning_documentation.html)
+[View my Pre-Planning documentation](https://lnerbonne.github.io/gerrymanderAL/report/pre_planning_documentation.html)

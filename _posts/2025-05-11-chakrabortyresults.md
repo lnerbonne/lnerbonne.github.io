@@ -12,7 +12,7 @@ For my next project for OpenGIScience, I undertook a partial reproduction of Jay
 
 This project gave me the opportunity to dive into the nuts and bolts of epidemiological clustering functions through the author's choice of using clusters of high incidence counties as a spatial control, with interesting results that I'm still working through. 
 
-If you want to check out the project results they're here: [https://lnerbonne.github.io/Covid_19_Clustering_Original/blob/main/docs/report/Final_Analysis_and_Report.html](https://lnerbonne.github.io/Covid_19_Clustering_Original/blob/main/docs/report/Final_Analysis_and_Report.html)
+If you want to check out the project results they're here: [https://lnerbonne/Covid_19_Clustering_Original/blob/main/docs/report/Final_Analysis_and_Report.html](https://github.com/lnerbonne/Covid_19_Clustering_Original/Final_Analysis_and_Report.html)
 
 The Github repo for the project can be found here: [https://github.com/lnerbonne/Covid_19_Clustering_Original](https://github.com/lnerbonne/Covid_19_Clustering_Original)
 
